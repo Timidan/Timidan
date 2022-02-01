@@ -21,6 +21,6 @@ My name is Temitayo, I'm a Solidity Smart Contract Developer
 
 ### Get in touch with me...
 
-[<img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!'>](mailto://Akinnusotutemitayodaniel@gmail.com)
-[<img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!'>](https://twitter.com/TImidan_x)
-[<img src='https://image.flaticon.com/icons/svg/1409/1409945.svg' width='32' title='Message Me!'>](https://www.linkedin.com/in/Timidan/)
+[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643757205/gmail_sqb5rq.png' title='Email Me!'>](mailto://Akinnusotutemitayodaniel@gmail.com)
+[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296516_tweet_twitter_twitter_logo_icon_bge2m4.png' title='DM Me!'>](https://twitter.com/TImidan_x)
+[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296501_linkedin_network_linkedin_logo_icon_pi6n4y.png' title='Message Me!'>](https://www.linkedin.com/in/Timidan/)
