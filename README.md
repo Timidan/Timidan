@@ -14,7 +14,6 @@ My name is Temitayo, I'm a Solidity Smart Contract Developer
 - 🤔 I’m looking for help with interesting things
 - 💬 Ask me about most interesting things
 - 📫 How to reach me: [Timidan](https://twitter.com/timidan_x)
-- 😄 Pronouns: That guy 😀 
 - ⚡ Fun fact: I like interesting things
 - reach me faster: [@Timidan](https://twitter.com/timidan_x)
 
