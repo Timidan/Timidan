@@ -3,7 +3,7 @@
 <!--
 **Timidan/Timidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-My name is Temitayo, I'm a Solidity Smart Contract Developer
+My name is Temitayo, I'm ~~a Solidity Smart Contract Developer~~ Just a guy
 
 [![Timidan's github stats](https://github-readme-stats.vercel.app/api?username=Timidan&show_icons=true&theme=radical&hide=stars)](https://github.com/Timidan/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Timidan&" alt="yczar" /></p>
 
