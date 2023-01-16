@@ -5,7 +5,7 @@
 
 My name is Temitayo, I'm ~~a Solidity Smart Contract Developer~~ Just a guy
 
-[![Timidan's github stats](https://github-readme-stats.vercel.app/api?username=Timidan&show_icons=true&theme=radical&hide=stars)](https://github.com/Timidan/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Timidan&" alt="yczar" /></p>
+
 
 
 - 🔭 I’m currently working on Interesting things
